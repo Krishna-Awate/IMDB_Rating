@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/imdb_rating/static/css/main.0f0fd532.css",
-    "main.js": "/imdb_rating/static/js/main.194c781b.js",
-    "index.html": "/imdb_rating/index.html",
-    "main.0f0fd532.css.map": "/imdb_rating/static/css/main.0f0fd532.css.map",
-    "main.194c781b.js.map": "/imdb_rating/static/js/main.194c781b.js.map"
+    "main.css": "/IMDB_Rating/static/css/main.0f0fd532.css",
+    "main.js": "/IMDB_Rating/static/js/main.194c781b.js",
+    "index.html": "/IMDB_Rating/index.html",
+    "main.0f0fd532.css.map": "/IMDB_Rating/static/css/main.0f0fd532.css.map",
+    "main.194c781b.js.map": "/IMDB_Rating/static/js/main.194c781b.js.map"
   },
   "entrypoints": [
     "static/css/main.0f0fd532.css",
